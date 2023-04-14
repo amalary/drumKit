@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
 html{
   font-size: 10px;
   background: url("../images/Runaway.png") bottom center;
@@ -8,8 +10,7 @@ html{
 body html {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-
+  font-family:'Cormorant Garamond', 'san-serif';
 }
 
 .keys {
