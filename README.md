@@ -2,7 +2,7 @@
 This is a simple drum kit project that plays different drum sounds when you press keys on your keyboard. The project is built using JavaScript and HTML/CSS.
 
 # Getting Started
-To get started with this project, simply clone this repository to your local machine and open the index.html file in your web browser. You can also access the project online by visiting the project page here.
+To get started with this project, simply clone this repository to your local machine and open the index.html file in your web browser. You can also access the project online by visiting the project page here. 
 
 # How to Use
 To play a drum sound, simply press the corresponding key on your keyboard. Each key on the keyboard is mapped to a different drum sound. The project supports multiple keys, so you can play multiple sounds at the same time.
